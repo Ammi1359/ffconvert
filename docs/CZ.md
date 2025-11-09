@@ -2,6 +2,9 @@ Napsal Nuru — 2025
 Přehled
 - Tato kolekce obsahuje hlavní PowerShell skript pro hromadnou konverzi videí a dva pomocné skripty pro normalizaci hlasitosti (peak-max a průměr). Vše používá FFmpeg a je určeno pro Windows. Soubory se konvertují, zachovává se strom složek, po úspěšné konverzi se původní soubory přesunou do složky Done.
 
+REPO:
+https://github.com/Ammi1359/ffconvert
+
 Soubory ve sbírce
 - ConvertBatch_v2.ps1 — hlavní konvertor
 Rekurzivně prohledá IN, zachovává relativní podsložky v OUT, konvertuje do zvoleného formátu, přesune originály do Done, zobrazuje průběh a barevné logy. Ptá se na formát, CRF a preset.

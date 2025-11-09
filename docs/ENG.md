@@ -2,7 +2,7 @@ Written by Nuru — 2025
 Overview
 - This collection provides a PowerShell batch converter and two audio-normalizer helpers that use FFmpeg to process large video libraries on Windows. You can convert video formats, preserve folder structure, normalize audio using two strategies (peak-max or arithmetic average), and move originals to a Done folder after successful conversion. Scripts are designed to run from the same folder that contains the IN, OUT and Done subfolders.
 
-REPO
+REPO:
 https://github.com/Ammi1359/ffconvert
 
 Components
